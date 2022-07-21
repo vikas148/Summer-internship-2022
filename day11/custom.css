@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:black;
+}
+
+form{
+    padding-left: 600px;
+    padding-top: 40px;
+    
+}
+input{
+    width: 400px;
+    height: 34px;
+    border: 2px solid white;
+    border-radius: 11px;
+    color:black;
+}
+.card{
+    margin-top: 34px;
+    /* padding-left: 600px; */
+    margin-left: 600px;
+    /* border: 2px solid red; */
+    width: 900px;
+    color: white;
+    
+}
+img{
+    width: 179px;
+    border-radius: 145px;
+    
+}
+
+ul li{
+    display: inline-block;
+    margin: 3px;
+    list-style: none;
+}
+
+#repos{
+    border: 2px solid wheat;
+    height: 80px;
+}
+ a{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 4px;
+    /* background-color: gray; */
+    padding: 3px;
+    border: 2px solid white;
+    color: white;
+    border-radius: 11px;
+}
+a:hover{
+    background-color:white;
+    color: black;
+}
